@@ -2,8 +2,5 @@
 def display_board
     row = "   |   |   "
     dash = "-----------"
-    3.times {puts row + dash}    
+    3.times {puts row + dash}
 end
-
-
-
