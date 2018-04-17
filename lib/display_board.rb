@@ -4,3 +4,5 @@ def display_board
     dash = "-----------"
     3.times {puts row + dash}
 end
+
+display_board
